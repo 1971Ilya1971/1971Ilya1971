@@ -61,3 +61,5 @@
 ### :fire: My Stats :
                                                                                                                              
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1971ilya1971&theme=dracula&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&locale=ru)](https://git.io/streak-stats) 
+                                                                                                                             
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1971Ilya1971&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                             
