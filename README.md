@@ -30,7 +30,7 @@
 
 ### 🛠️ Технологии с которыми я работаю.
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,git,github,vscode)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode)](https://skillicons.dev)
 
 ### 🎨 Графические редакторы:
 [![Adobe Photoshop](https://user-images.githubusercontent.com/86494748/128635710-d46970f1-a171-461d-acd8-f4d8aa5c01e8.png)](https://www.adobe.com/ru/products/photoshop.html)
