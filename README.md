@@ -28,9 +28,9 @@
 <p>Работать над интересными проектами;</p>
 <p>Внести вклад в успех компании.</p>
 
-### 🛠️ Technologies I currently study or work with
+### 🛠️ Технологии с которыми я работаю.
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,git,bash,github,vscode)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,git,github,vscode)](https://skillicons.dev)
 
 
   
