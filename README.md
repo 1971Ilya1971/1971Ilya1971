@@ -25,6 +25,17 @@
 
 Мой адрес электронной почты  ya.zahar.ilya1971@yandex.ru  
 Контактный номер телефона +7 (906) 442-08-44
+<div id="badges" align="center>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 🎯 Мои цели.
 
@@ -43,17 +54,7 @@
 [![Adobe Photoshop](https://user-images.githubusercontent.com/86494748/128635710-d46970f1-a171-461d-acd8-f4d8aa5c01e8.png)](https://www.adobe.com/ru/products/photoshop.html)
  [![Figma](https://user-images.githubusercontent.com/86494748/148681763-cc9b76df-7a91-4908-84bb-7da19b860c74.png)](https://www.figma.com/)
 
-   <div id="badges" align="center>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+   
 
 ### :fire: My Stats :
  
