@@ -11,8 +11,8 @@
 
 <br>
 
-### 😺 About me
-- ⚙️ I am 20 years old and currently work at Companny do Brasil as a front end programmer
+### 😺 Обо мне: 
+- ⚙️ Я родился 23 декабря 1971 года.
 - 🤓 I'm a tech enthusiast and I've been studying too often to quell this knowledge i have
 - 📚 Always trying to be the best version of myself
 - ❓Curious in game development
