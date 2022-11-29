@@ -25,26 +25,6 @@
 <p>Работать над интересными проектами;</p>
 <p>Внести вклад в успех компании.</p>
 
- ### 🛠️ Technologies I currently study or work with
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,styledcomponents,tailwind,flutter,dart,docker,figma,materialui,git,bash,github,vscode)](https://skillicons.dev)
-
-<br>
-
-<div align="center">
-
-![Github Status](https://github-readme-stats.vercel.app/api?username=CarloshDevBR&show_icons=true&hide_border=true&count_private=true&theme=dracula)
-<a href="http://www.github.com/CarloshDevBR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarloshDevBR&hide_border=true&theme=dracula&layout=compact" /></a>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloshDevBR&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact)
-</div>
-
-<br>
-
-✨ Social networks
-
-<div>
-  <a href="https://www.linkedin.com/in/carlos-henrique-silva-5588bb21b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:carloshdevbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</div>
+  
 
  
