@@ -52,14 +52,14 @@
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode)](https://skillicons.dev)
 
-🎨 Графические редакторы:
+🎨 Графические редакторы.
 
 [![Adobe Photoshop](https://user-images.githubusercontent.com/86494748/128635710-d46970f1-a171-461d-acd8-f4d8aa5c01e8.png)](https://www.adobe.com/ru/products/photoshop.html)
  [![Figma](https://user-images.githubusercontent.com/86494748/148681763-cc9b76df-7a91-4908-84bb-7da19b860c74.png)](https://www.figma.com/)
 
    
 
-### :fire: Моя статистика :
+:fire: Моя статистика :
  
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=1971Ilya1971)](https://github.com/username/github-readme-stats)                                                                                                                                                                                         
                                                                                                                              
