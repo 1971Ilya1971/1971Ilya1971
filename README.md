@@ -1,5 +1,5 @@
  <h1 align='center'>
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" /> Hello! Welcome to my profile, I hope you like it.. 🤖
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" /> Привет добро пожаловать в мой профиль. Надеюсь, что вам понравятся мои работы. 🤖
   <p align="center">
     <img src="https://user-images.githubusercontent.com/92805039/157175887-86e6dd4e-5855-4796-88bd-798930336fe0.gif"  alt="emoji-dance" />
   </p>
