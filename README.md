@@ -23,7 +23,6 @@
 
 Я открыт к предложениям на позицию frontend-разработчика, где могу внести свой вклад и развиваться вместе с компанией. Если у вас есть вакансия, которая соответствует моим навыкам и опыту, не стесняйтесь связаться со мной, буду рад сотрудничеству.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=1971Ilya1971)](https://github.com/username/github-readme-stats)
 
 👨‍💼 Для связи.
 
@@ -63,5 +62,7 @@
 ### :fire: My Stats :
                                                                                                                              
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1971ilya1971&theme=dracula&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&locale=ru)](https://git.io/streak-stats) 
+ 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=1971Ilya1971)](https://github.com/username/github-readme-stats)                                                                                                                             
                                                                                                                              
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1971Ilya1971&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                             
