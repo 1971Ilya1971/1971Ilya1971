@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align='center'>
-  Front-End Developer💡
+  Я дипломированный программист на Javascript💡
 </h3>
 
 <br>
