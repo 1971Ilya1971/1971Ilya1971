@@ -59,7 +59,7 @@
 
    
 
-### :fire: My Stats :
+### :fire: Моя статистика :
  
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=1971Ilya1971)](https://github.com/username/github-readme-stats)                                                                                                                                                                                         
                                                                                                                              
